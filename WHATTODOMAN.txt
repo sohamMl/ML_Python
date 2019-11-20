@@ -21,4 +21,3 @@ open file in pandas(read_csv)
 		correlation between all continuous X
 		all continuous must follow normal distribution or not		(sns.distplot)
     
-testing some vscode features
